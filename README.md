@@ -1,5 +1,4 @@
-# Amazon Best Seller Products — App Guide
-
+# Databricks React App Demo
 ## Table of Contents
 
 1. [Architecture Overview](#architecture-overview)
