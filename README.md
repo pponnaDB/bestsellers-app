@@ -64,8 +64,9 @@ The app uses **state-based tab switching** (no router library). Three independen
 
 ### 📦 Products Tab
 - Paginated table (10 products per page) with Prev/Next navigation
-- Category filter dropdown (names truncated to 50 characters, full name on hover)
-- Displays title, brand, final price, and availability badge
+- Search bar to dynamically search for the products
+- Filter toggle for In Stock and Out of Stock 
+- Displays title, final price, and availability badge
 
 ### 🏷️ Brands Tab
 - Brand dropdown selector (defaults to "Amazon Essentials" on load)
