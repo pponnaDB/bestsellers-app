@@ -223,6 +223,3 @@ This section covers everything needed to deploy this app on a **new Databricks w
 9. **Deploy** — the platform handles `npm install`, `vite build`, `pip install`, and `python app.py`
 10. **Verify** at the generated app URL
 
----
-
-*Generated from the Amazon Products App Setup notebook.*
